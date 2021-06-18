@@ -3,7 +3,7 @@ Electronic engineering student at Pontificia Universidad Javeriana.
 
 ## A little more about me...
 
-<img src="https://cdn.dribbble.com/users/902228/screenshots/5902276/illustration_v345_robots-dribbble-04.jpg" alt="Cute_Robots" width="300">
+<img src="https://cdn.dribbble.com/users/902228/screenshots/5902276/illustration_v345_robots-dribbble-04.jpg" alt="Cute_Robots" width="600">
 
 🔭 I'm currently studying and learning a lot about robotics, programming and everything related to electronics!  
 💬 I'm 20 years old. I really enjoy working with people and always innovating.  
