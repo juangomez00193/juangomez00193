@@ -7,5 +7,6 @@ Electronic engineering student at Pontificia Universidad Javeriana.
 
 🔭 I'm currently studying and learning a lot about robotics, programming and everything related to electronics!  
 💬 I'm 20 years old. I really enjoy working with people and always innovating.  
-🥅 I'm looking to work and collaborate with other engineers, looking to create robots and programs for the benefit of humanity!  
+🥅 I'm looking to work and collaborate with other engineers, aiming to create robots and programs for the benefit of humanity!  
 📫 How to reach me:  
+[<img align="left" alt="juangomez00193 | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
